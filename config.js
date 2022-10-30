@@ -3,16 +3,16 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6289524289281'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6289524289281']
 
 //  INFO BOT 
 global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
+global.noown = '6289524289281'
 global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.nobot = '6288220938409'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/itskri99'
@@ -22,10 +22,10 @@ global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, lin
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
+global.dana = '089524289281'
+global.pulsa = '089524289281'
+global.gopay = '089524289281'
+global.shopay = '089524289281'
 global.ovo = '081360482998'
 
 // PROFILE ALL 
